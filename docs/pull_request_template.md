@@ -3,6 +3,7 @@
 - [ ] Refactor
 - [ ] Styling
 - [ ] Bug Fixes
+- [ ] Testing
 
 #Please describe the tests that you ran to verify your changes.
 - [ ] I tested my changes in the browser
